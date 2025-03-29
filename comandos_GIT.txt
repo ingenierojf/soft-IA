@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "esciba el mensaje de la acción"
+git push
