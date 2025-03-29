@@ -13,7 +13,7 @@ Algoritmo arreglos
 		Leer A[i];
 	Fin Para
 
-	//Aqui vamos a imprimir el vector A
+	//Aqui se imprime el vector A
 	Para i<-0 Hasta 7 Con Paso 1 Hacer
 		//Escribir i
 		Escribir sin saltar A[i] " ";
